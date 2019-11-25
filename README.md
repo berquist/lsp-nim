@@ -15,7 +15,7 @@ in a terminal, then make sure `nimlsp` is available on your `PATH`.
 ### Emacs mode
 
 After downloading into your `load-path`:
-```lisp
+```emacs-lisp
 (require 'lsp-nim)
 ```
 ## License
