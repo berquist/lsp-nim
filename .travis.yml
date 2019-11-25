@@ -49,4 +49,5 @@ script:
         cask exec ecukes
     fi
   - cask build
-  - cask test
+  # Currently no tests
+  # - cask test
