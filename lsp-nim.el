@@ -44,7 +44,7 @@
  (make-lsp-client
   :new-connection (lsp-stdio-connection "nimlsp")
   :major-modes '(nim-mode)
-  :server-id 'nimlsp))
+  :server-id 'nimls))
 
 (provide 'lsp-nim)
 
