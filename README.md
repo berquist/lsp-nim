@@ -1,3 +1,5 @@
+This isn't needed anymore, since `nimlsp` is now a part of [`lsp-mode`](https://github.com/emacs-lsp/lsp-mode)!
+
 # lsp-nim
 
 `lsp-mode` client for Nim: https://github.com/PMunch/nimlsp/
